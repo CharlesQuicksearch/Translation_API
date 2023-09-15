@@ -1,0 +1,53 @@
+en-AU
+en-US
+en en-GB   // English is allways a priority
+sv-SE sv    // Swedish
+cs-CZ cz    // Czech
+da-DK da    // Danish
+nl-NL nl   	 // Dutch - Netherlands
+et-EE et   	 // Estonian
+fi-FI fi   	 // Finish
+fr-FR fr   	 // France
+de-DE de   	 // German
+it-IT it     // Italian
+et-EE et   	 // Estonian TODO - Wrong? DM4 value: 3BAD6C55-20A8-44D3-8C1D-E7856B5F7629
+lv-LV lv   	 // Latvian
+lt-LT lt   	 // Lithuanian
+nb-no no nn-no  // Norweigan
+pl-PL pl 	 // Polish
+pt-PT pt  	 // Portuguese
+ro-RO ro   	 // Rumanian
+ru-RU ru   	 // Russian
+sr-Cyrl-RS sr   // Serbian
+sk-SK sk    // Slovakian
+es-ES es    // Spanish
+fa fa  		// Farsi
+id id		// Bahasa Indonesia
+uk uk     	// Ukrainian
+vi vn       // Vietnamese
+zh-CN zh  // Chinese - Simplified
+zh-Hant zh  // Chinese - Traditional
+hu-HU       // Hungerian
+el-GR el  	// Greek
+th-TH th  	// Thai
+tr-TR tr  // Turkish
+ko-KR ko   	// Korean
+de-AT de	// German - Austria (not implemented use german instead
+is-IS is            // Icelandic
+pt-BR
+es-CL       // Chilean
+fr-BE fr         // French - Belgium
+nl-BE 		// Dutch - Belgium
+ja-JP ja    // Japanese
+ar-sa ar   	// Arabic
+sq-AL sq   	// Albanian
+ms-MY ms   	// Malay
+bs      	// Bosnian
+hr       	// Croatian
+si-LK  		// Singalesiska (sinhala
+my-MM       // Burmesiska
+ca-ES ca 	// Catalan
+ku-Arab ku  // Kurdi
+tl-PH tl    // Tagalog - Philippines
+so-SO,so 	// Somali not supported by Microsoft.
+kn-IN kn 	// Kannada - India (not implmented)
