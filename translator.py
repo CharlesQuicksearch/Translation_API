@@ -1,8 +1,8 @@
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 
-model = AutoModelForSeq2SeqLM.from_pretrained("Model/Translation_nllb_Model")
-_tokenizer = AutoTokenizer.from_pretrained("Model/Translation_nllb_Tokenizer")
+model = AutoModelForSeq2SeqLM.from_pretrained("../translation_models/nllb/Translation_nllb_Model")
+_tokenizer = AutoTokenizer.from_pretrained("../translation_models/nllb/Translation_nllb_Tokenizer")
 
 language_codes = np.array(
         [("arb_Arab", "ar-sa", "ar"),
